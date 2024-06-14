@@ -1,0 +1,4732 @@
+[
+    {
+        "type": "Title",
+        "element_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        195.6,
+                        158.1
+                    ],
+                    [
+                        195.6,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Lecture 1"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4ae499468538681369c8ab93842d1ad3",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        731.4,
+                        158.1
+                    ],
+                    [
+                        731.4,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 1,
+            "detection_class_prob": 0.26362
+        },
+        "text": "HSI1000"
+    },
+    {
+        "type": "Title",
+        "element_id": "5fee4cc66d79e6609cc57255cb34cd3b",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        247.8
+                    ],
+                    [
+                        175.7,
+                        315.5
+                    ],
+                    [
+                        1096.9,
+                        315.5
+                    ],
+                    [
+                        1096.9,
+                        247.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 1,
+            "detection_class_prob": 0.82274
+        },
+        "text": "1 The Founding of Modern Science"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f32d57a282839b0a0a24e9a7ccee6a28",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        191.1,
+                        389.5
+                    ],
+                    [
+                        191.1,
+                        454.9
+                    ],
+                    [
+                        869.6,
+                        454.9
+                    ],
+                    [
+                        869.6,
+                        389.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "5fee4cc66d79e6609cc57255cb34cd3b",
+            "page_number": 1
+        },
+        "text": "Intended Learning Outcomes for Lecture 01 You should be able to do the following after this lecture."
+    },
+    {
+        "type": "ListItem",
+        "element_id": "28ddbd0e870e4f03067be06aff1312d9",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        191.1,
+                        495.6
+                    ],
+                    [
+                        191.1,
+                        562.6
+                    ],
+                    [
+                        1468.9,
+                        562.6
+                    ],
+                    [
+                        1468.9,
+                        495.6
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "5fee4cc66d79e6609cc57255cb34cd3b",
+            "page_number": 1,
+            "detection_class_prob": 0.63252
+        },
+        "text": "(1) Describe what is science and explain the scientific method \u201cin a nutshell\u201d, illustrating your explanation with a straightforward example."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "867fcbe8ebc3a6fcfd548314971dc798",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        191.1,
+                        567.3
+                    ],
+                    [
+                        191.1,
+                        670.3
+                    ],
+                    [
+                        1469.3,
+                        670.3
+                    ],
+                    [
+                        1469.3,
+                        567.3
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "5fee4cc66d79e6609cc57255cb34cd3b",
+            "page_number": 1
+        },
+        "text": "(2) Describe the roles scientific observations play in the scientific method. (3) Explain what are the main concerns that should be addressed when making scientific observations. (4) Explain why anomalous phenomena are important for science, illustrating your explanation with some"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "64b10fa7a2b0627d8396c79dc2e30e51",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        202.0,
+                        638.7
+                    ],
+                    [
+                        202.0,
+                        706.2
+                    ],
+                    [
+                        1457.4,
+                        706.2
+                    ],
+                    [
+                        1457.4,
+                        638.7
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "5fee4cc66d79e6609cc57255cb34cd3b",
+            "page_number": 1,
+            "detection_class_prob": 0.69676
+        },
+        "text": "examples from the scientific revolution."
+    },
+    {
+        "type": "ListItem",
+        "element_id": "9b3a816f0fd5e69e1ec57a793e1a4605",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        191.1,
+                        709.6
+                    ],
+                    [
+                        191.1,
+                        778.0
+                    ],
+                    [
+                        1470.2,
+                        778.0
+                    ],
+                    [
+                        1470.2,
+                        709.6
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "5fee4cc66d79e6609cc57255cb34cd3b",
+            "page_number": 1,
+            "detection_class_prob": 0.70001
+        },
+        "text": "(5) In the context of the scientific revolution, discuss the difference between an evidence-based understanding of the natural world versus one based on authority."
+    },
+    {
+        "type": "ListItem",
+        "element_id": "90e65b62ff2362ea9c1e3fd489ebf264",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        191.1,
+                        782.7
+                    ],
+                    [
+                        191.1,
+                        849.8
+                    ],
+                    [
+                        1469.1,
+                        849.8
+                    ],
+                    [
+                        1469.1,
+                        782.7
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "5fee4cc66d79e6609cc57255cb34cd3b",
+            "page_number": 1,
+            "detection_class_prob": 0.69673
+        },
+        "text": "(6) Discuss the steam engine\u2019s contribution to the Industrial Revolution and its impact on population growth in industrialized nations."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "45cf5803ecbc3db068f2801f3ef3a0d4",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        161.5,
+                        954.2
+                    ],
+                    [
+                        161.5,
+                        1232.5
+                    ],
+                    [
+                        1491.4,
+                        1232.5
+                    ],
+                    [
+                        1491.4,
+                        954.2
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "5fee4cc66d79e6609cc57255cb34cd3b",
+            "page_number": 1,
+            "detection_class_prob": 0.95193
+        },
+        "text": "1.1 What is Science? Hi all, welcome to the first video in this series. This lecture, which is made up of several videos, is about what science is and is a cut-down bare-bones explanation of the scientific method \u201cin a nutshell\u201d \u2013 which we will see illustrated with a few examples. We will take a closer look at the first step in the scientific method (again illustrated with an example) and then briefly review the founding of modern science and what one could say was a direct consequence of that \u2013 the Industrial Revolution, and it\u2019s here we\u2019ll see the beginning of mankind\u2019s dependence on fossil fuels."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1cc19fc4c27f71163b62212aca2a009f",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1260.6
+                    ],
+                    [
+                        175.7,
+                        1370.3
+                    ],
+                    [
+                        1484.0,
+                        1370.3
+                    ],
+                    [
+                        1484.0,
+                        1260.6
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "5fee4cc66d79e6609cc57255cb34cd3b",
+            "page_number": 1,
+            "detection_class_prob": 0.76816
+        },
+        "text": "I hope you have had a look through the intended learning outcomes for this lecture. They are listed right before this video, so let\u2019s get straight into addressing our first learning outcome, which is to answer the question:"
+    },
+    {
+        "type": "Title",
+        "element_id": "0a7abb5813d7ed896ea4aab764061e2b",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        616.8,
+                        1381.4
+                    ],
+                    [
+                        616.8,
+                        1418.6
+                    ],
+                    [
+                        1044.7,
+                        1418.6
+                    ],
+                    [
+                        1044.7,
+                        1381.4
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 1,
+            "detection_class_prob": 0.83825
+        },
+        "text": "\u201cWhat is science actually?\u201d"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "daa425707537c75f0106e12e9406e7ed",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        167.9,
+                        1446.6
+                    ],
+                    [
+                        167.9,
+                        1634.4
+                    ],
+                    [
+                        1495.8,
+                        1634.4
+                    ],
+                    [
+                        1495.8,
+                        1446.6
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "0a7abb5813d7ed896ea4aab764061e2b",
+            "page_number": 1,
+            "detection_class_prob": 0.94802
+        },
+        "text": "I bet most people think of science in terms of \u201csubjects\u201d, like Chemistry, Physics, Biology, Medicine, and Pharmacy, just to name a few. But is this actually science? Knowledge in textbooks? Where did this knowledge come from anyway? Most people would say that the facts, ideas, and concepts in science textbooks is true to the best of our knowledge, but how do we know it\u2019s true? In fact, just how do we know what we currently know, at all? By answering these questions, we get closer to figuring out what science is."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1139caf2df30b26ee8fa535c774feb9f",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1664.1
+                    ],
+                    [
+                        175.7,
+                        1775.5
+                    ],
+                    [
+                        1483.9,
+                        1775.5
+                    ],
+                    [
+                        1483.9,
+                        1664.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "0a7abb5813d7ed896ea4aab764061e2b",
+            "page_number": 1
+        },
+        "text": "1.1.1 What is Science and the Scientific Method in a Nutshell At this point, we\u2019ll take a look at what science is from our course textbook A Beginner\u2019s Guide to Scientific Method. Right here in Chapter 1, page 5, we read:"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0ec1da08aa360896a38fe24185bd9bd5",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        271.9,
+                        1805.5
+                    ],
+                    [
+                        271.9,
+                        1874.2
+                    ],
+                    [
+                        1483.8,
+                        1874.2
+                    ],
+                    [
+                        1483.8,
+                        1805.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "0a7abb5813d7ed896ea4aab764061e2b",
+            "page_number": 1,
+            "detection_class_prob": 0.66204
+        },
+        "text": "\u201cScience is that activity which aims to further our understanding of why things happen as they do in the natural world. It accomplishes this goal by applications of the scientific method.\u201d"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1ce784007b450562d261779fd1813d49",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        174.3,
+                        1905.0
+                    ],
+                    [
+                        174.3,
+                        1934.4
+                    ],
+                    [
+                        674.1,
+                        1934.4
+                    ],
+                    [
+                        674.1,
+                        1905.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "0a7abb5813d7ed896ea4aab764061e2b",
+            "page_number": 1,
+            "detection_class_prob": 0.75992
+        },
+        "text": "So, what exactly is the scientific method?"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a25d2009c52d95c5cbdc5a0e9bd14df7",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1964.3
+                    ],
+                    [
+                        175.7,
+                        2033.2
+                    ],
+                    [
+                        1484.4,
+                        2033.2
+                    ],
+                    [
+                        1484.4,
+                        1964.3
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "0a7abb5813d7ed896ea4aab764061e2b",
+            "page_number": 1,
+            "detection_class_prob": 0.73118
+        },
+        "text": "Our textbook goes on to explain, \u201c\u2026it is the process of observing nature, isolating a facet that is not well understood, and then proposing and testing possible explanations.\u201d Observe. Explain. Test the explanation."
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        793.3,
+                        2132.5
+                    ],
+                    [
+                        793.3,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2132.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "0a7abb5813d7ed896ea4aab764061e2b",
+            "page_number": 1
+        },
+        "text": "1"
+    },
+    {
+        "type": "Footer",
+        "element_id": "cb1b5283c2adf25044bbd42527a58332",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        787.1,
+                        2134.7
+                    ],
+                    [
+                        787.1,
+                        2159.5
+                    ],
+                    [
+                        811.5,
+                        2159.5
+                    ],
+                    [
+                        811.5,
+                        2134.7
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 1,
+            "detection_class_prob": 0.26737
+        },
+        "text": "1"
+    },
+    {
+        "type": "Title",
+        "element_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        195.6,
+                        158.1
+                    ],
+                    [
+                        195.6,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 2
+        },
+        "text": "Lecture 1"
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "bcf49d98a8e7d59cf9307a11a4d6cd2d",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        733.2,
+                        158.1
+                    ],
+                    [
+                        733.2,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 2
+        },
+        "text": "HSI1000"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "743c477737a735b2cc3a96dbe1f2b90d",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        242.0
+                    ],
+                    [
+                        175.7,
+                        431.2
+                    ],
+                    [
+                        1484.0,
+                        431.2
+                    ],
+                    [
+                        1484.0,
+                        242.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 2,
+            "detection_class_prob": 0.94675
+        },
+        "text": "The facts, ideas, and concepts we find in textbooks have all been put through this process. The knowledge in textbooks is really only one part of science \u2013 it\u2019s essentially the explanation part with some observations usually thrown in here and there. Rarely do we read about the rigorous testing the explanations went through. Nor do we hear much about those wrong explanations given earlier, and how testing, or experimentation, was used to eliminate them and home in on what now lies within science textbooks."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3b2c83226e50b5aae7f6e3b769e9287c",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        457.6
+                    ],
+                    [
+                        175.7,
+                        530.6
+                    ],
+                    [
+                        609.0,
+                        530.6
+                    ],
+                    [
+                        609.0,
+                        457.6
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 2
+        },
+        "text": "1.1.2 Science is Self-Correcting You see, science is self-correcting."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1778d69bc9aac38aa2ea967c09554824",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        561.3
+                    ],
+                    [
+                        175.7,
+                        668.4
+                    ],
+                    [
+                        1484.1,
+                        668.4
+                    ],
+                    [
+                        1484.1,
+                        561.3
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 2,
+            "detection_class_prob": 0.80479
+        },
+        "text": "The vast majority of the knowledge found in today\u2019s textbooks was all hard won, with multiple wrong explanations being proposed and then discarded until arriving at the current version. This may yet be undone if some new test of that understanding reveals it's lacking in some way."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "48cd8be804f9d4e32829202ac2bbf29e",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        696.2
+                    ],
+                    [
+                        175.7,
+                        921.6
+                    ],
+                    [
+                        1487.6,
+                        921.6
+                    ],
+                    [
+                        1487.6,
+                        696.2
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 2,
+            "detection_class_prob": 0.94956
+        },
+        "text": "This testing and refinement of our knowledge and understanding is the nature of Scientific Inquiry, the main topic of this course. The best way to understand scientific inquiry is through examples and application. The topic we\u2019ve chosen to look at to gain an understanding of scientific inquiry is perhaps the single most important problem facing our species today \u2013 that is, climate change and loss of biodiversity. It is science that offers us our best chance at figuring out how we can get out of this mess \u2013 and what all of us need to do to get there."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0f8e1cf554b499b5b9e61424194140a4",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        950.1
+                    ],
+                    [
+                        175.7,
+                        1020.3
+                    ],
+                    [
+                        1484.0,
+                        1020.3
+                    ],
+                    [
+                        1484.0,
+                        950.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 2,
+            "detection_class_prob": 0.73973
+        },
+        "text": "OK, before we get into this serious problem, we need to get a good understanding of this \u201cobserve, explain, test\u201d approach to knowledge discovery."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6f3c3f15a7d75f8f56f99ade85b4a7fc",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1050.1
+                    ],
+                    [
+                        175.7,
+                        1119.0
+                    ],
+                    [
+                        1484.0,
+                        1119.0
+                    ],
+                    [
+                        1484.0,
+                        1050.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 2,
+            "detection_class_prob": 0.75746
+        },
+        "text": "Did you know that any time you troubleshoot something you\u2019re actually applying the scientific method? For example, let\u2019s take a look at troubleshooting a laptop that doesn\u2019t bootup in our next video."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6c5f04ac546ff38345504a5d0526f633",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1150.3
+                    ],
+                    [
+                        175.7,
+                        1321.6
+                    ],
+                    [
+                        1483.9,
+                        1321.6
+                    ],
+                    [
+                        1483.9,
+                        1150.3
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 2
+        },
+        "text": "1.2 A PC Won\u2019t Work 1.2.1 Troubleshooting a Laptop We find that our laptop doesn\u2019t boot, so we troubleshoot it, which is an example of a straightforward application of the scientific method."
+    },
+    {
+        "type": "Table",
+        "element_id": "11170d6d4407ff0cb774352999ff9239",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        197.9,
+                        1342.6
+                    ],
+                    [
+                        197.9,
+                        1516.5
+                    ],
+                    [
+                        1451.4,
+                        1516.5
+                    ],
+                    [
+                        1451.4,
+                        1342.6
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 2,
+            "text_as_html": "<table><thead><th></th><th>Laptop doesn\u2019t boot</th></thead><tr><td></td><td>Battery dead</td></tr><tr><td>the explanation |</td><td>Plug in external power</td></tr><tr><td>of test</td><td>Laptop seems to boot, so the battery must have been dead</td></tr></table>",
+            "detection_class_prob": 0.82942
+        },
+        "text": "Laptop doesn\u2019t boot Battery dead Laptop seems to boot, so the battery must have been dead"
+    },
+    {
+        "type": "Title",
+        "element_id": "7e9c49e5a9c89112b2295d09d8337fd4",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        191.1,
+                        1353.7
+                    ],
+                    [
+                        191.1,
+                        1494.7
+                    ],
+                    [
+                        749.5,
+                        1494.7
+                    ],
+                    [
+                        749.5,
+                        1353.7
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 2
+        },
+        "text": "Observation Explanation Test the explanation Plug in external power Result of test"
+    },
+    {
+        "type": "Title",
+        "element_id": "e539bdac886ac6031e46062312fe1db0",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        474.5,
+                        1353.7
+                    ],
+                    [
+                        474.5,
+                        1420.3
+                    ],
+                    [
+                        723.0,
+                        1420.3
+                    ],
+                    [
+                        723.0,
+                        1353.7
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 2
+        },
+        "text": "Laptop doesn\u2019t boot Battery dead"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "43c16bf1dfb901e8022c0b08dec6b64a",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        474.5,
+                        1465.2
+                    ],
+                    [
+                        474.5,
+                        1494.7
+                    ],
+                    [
+                        1186.4,
+                        1494.7
+                    ],
+                    [
+                        1186.4,
+                        1465.2
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "e539bdac886ac6031e46062312fe1db0",
+            "page_number": 2
+        },
+        "text": "Laptop seems to boot, so the battery must have been dead"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9af85d8bc3b91d57709736fd535dc0f7",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1502.4
+                    ],
+                    [
+                        175.7,
+                        1531.9
+                    ],
+                    [
+                        566.4,
+                        1531.9
+                    ],
+                    [
+                        566.4,
+                        1502.4
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "e539bdac886ac6031e46062312fe1db0",
+            "page_number": 2
+        },
+        "text": "But now there\u2019s a new problem."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bda8ef1b6b493f2564d7285d62b88da9",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1559.5
+                    ],
+                    [
+                        175.7,
+                        1592.1
+                    ],
+                    [
+                        994.3,
+                        1592.1
+                    ],
+                    [
+                        994.3,
+                        1559.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "e539bdac886ac6031e46062312fe1db0",
+            "page_number": 2,
+            "detection_class_prob": 0.63071
+        },
+        "text": "Re-running through our \u201cobserve, explain, test\u201d steps again we find:"
+    },
+    {
+        "type": "Table",
+        "element_id": "e3673ded912130a1aeeb701caa6b4ab2",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        179.0,
+                        1618.4
+                    ],
+                    [
+                        179.0,
+                        1874.8
+                    ],
+                    [
+                        1453.3,
+                        1874.8
+                    ],
+                    [
+                        1453.3,
+                        1618.4
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "e539bdac886ac6031e46062312fe1db0",
+            "page_number": 2,
+            "text_as_html": "<table><tr><td rowspan=\"2\">Explanation Test the explanation |</td><td>Laptop monitor not working</td></tr><tr><td></td><td>Try connecting the external monitor with HDMI cable 1</td></tr><tr><td rowspan=\"2\">Result of test</td><td>Laptop seems to boot, but there\u2019s nothing on the screen. (a) Either the graphics card or motherboard has issues,</td></tr><tr><td></td><td>or (b) Something was wrong with our test.</td></tr></table>",
+            "detection_class_prob": 0.84754
+        },
+        "text": "Observation Explanation Test the explanation Try connecting the external monitor with HDMI cable 1 Laptop seems to boot, but there\u2019s nothing on the screen Laptop monitor not working Laptop seems to boot, but there\u2019s nothing on the screen. (a) Either the graphics card or motherboard has issues, or (b) Something was wrong with our test. Result of test"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a8b17b997f3246a723e165faadaea074",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        191.1,
+                        1624.2
+                    ],
+                    [
+                        191.1,
+                        1728.0
+                    ],
+                    [
+                        1138.8,
+                        1728.0
+                    ],
+                    [
+                        1138.8,
+                        1624.2
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "e539bdac886ac6031e46062312fe1db0",
+            "page_number": 2
+        },
+        "text": "Observation Explanation Test the explanation Try connecting the external monitor with HDMI cable 1"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2c910a121b0e55deeffd9673a0750de4",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        474.5,
+                        1624.2
+                    ],
+                    [
+                        474.5,
+                        1690.9
+                    ],
+                    [
+                        1154.3,
+                        1690.9
+                    ],
+                    [
+                        1154.3,
+                        1624.2
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "e539bdac886ac6031e46062312fe1db0",
+            "page_number": 2
+        },
+        "text": "Laptop seems to boot, but there\u2019s nothing on the screen Laptop monitor not working"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d83295d68c0f1b72134a98baf28d4812",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        474.5,
+                        1735.7
+                    ],
+                    [
+                        474.5,
+                        1872.9
+                    ],
+                    [
+                        1161.7,
+                        1872.9
+                    ],
+                    [
+                        1161.7,
+                        1735.7
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "e539bdac886ac6031e46062312fe1db0",
+            "page_number": 2
+        },
+        "text": "Laptop seems to boot, but there\u2019s nothing on the screen. (a) Either the graphics card or motherboard has issues, or (b) Something was wrong with our test."
+    },
+    {
+        "type": "Title",
+        "element_id": "4d91767d14b7563f84e5f9ff71d578ca",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        191.1,
+                        1789.6
+                    ],
+                    [
+                        191.1,
+                        1819.1
+                    ],
+                    [
+                        359.3,
+                        1819.1
+                    ],
+                    [
+                        359.3,
+                        1789.6
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 2
+        },
+        "text": "Result of test"
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "d4735e3a265e16eee03f59718b9b5d03",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        793.3,
+                        2132.5
+                    ],
+                    [
+                        793.3,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2132.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4d91767d14b7563f84e5f9ff71d578ca",
+            "page_number": 2
+        },
+        "text": "2"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c0e6aef5c6eb6bc078b84bc783cb7db4",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        193.8,
+                        158.1
+                    ],
+                    [
+                        193.8,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4d91767d14b7563f84e5f9ff71d578ca",
+            "page_number": 3,
+            "detection_class_prob": 0.41338
+        },
+        "text": "Lecture 1"
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "bcf49d98a8e7d59cf9307a11a4d6cd2d",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        733.2,
+                        158.1
+                    ],
+                    [
+                        733.2,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4d91767d14b7563f84e5f9ff71d578ca",
+            "page_number": 3
+        },
+        "text": "HSI1000"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "21060f6d277b263fe0c0d5cf5ca02daf",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        170.7,
+                        242.8
+                    ],
+                    [
+                        170.7,
+                        352.3
+                    ],
+                    [
+                        1488.8,
+                        352.3
+                    ],
+                    [
+                        1488.8,
+                        242.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4d91767d14b7563f84e5f9ff71d578ca",
+            "page_number": 3,
+            "detection_class_prob": 0.79992
+        },
+        "text": "Perhaps there is something wrong with our test. The external monitor clearly worked because we used the external monitor before conducting this test, albeit with a different cable, and it worked! We change our HDMI cable and retry the \u201cTest the explanation\u201d step below."
+    },
+    {
+        "type": "Table",
+        "element_id": "f13550b1e8bd90a5bbcccc673077bf98",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        189.0,
+                        369.0
+                    ],
+                    [
+                        189.0,
+                        530.5
+                    ],
+                    [
+                        1470.4,
+                        530.5
+                    ],
+                    [
+                        1470.4,
+                        369.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4d91767d14b7563f84e5f9ff71d578ca",
+            "page_number": 3,
+            "text_as_html": "<table><tr><td>Observation</td><td>Laptop seems boot, but there\u2019s nothing on the screen</td></tr><tr><td>Explanation</td><td>Laptop monitor not working</td></tr><tr><td>Test the explanation</td><td>| Try connecting the external monitor with HDMI cable 2</td></tr><tr><td>Result of test</td><td>Laptop definitely boots and the external monitor shows the start screen.</td></tr></table>",
+            "detection_class_prob": 0.8464
+        },
+        "text": "Observation Explanation Test the explanation Try connecting the external monitor with HDMI cable 2 Result of test Laptop seems boot, but there\u2019s nothing on the screen Laptop monitor not working Laptop definitely boots and the external monitor shows the start screen."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8a426361bf9f91ca3629b97104b8c982",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        191.1,
+                        382.5
+                    ],
+                    [
+                        191.1,
+                        524.2
+                    ],
+                    [
+                        1138.8,
+                        524.2
+                    ],
+                    [
+                        1138.8,
+                        382.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4d91767d14b7563f84e5f9ff71d578ca",
+            "page_number": 3
+        },
+        "text": "Observation Explanation Test the explanation Try connecting the external monitor with HDMI cable 2 Result of test"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "73930e53474c3d6332482ffc8ba3a718",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        474.5,
+                        382.5
+                    ],
+                    [
+                        474.5,
+                        449.8
+                    ],
+                    [
+                        1122.4,
+                        449.8
+                    ],
+                    [
+                        1122.4,
+                        382.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4d91767d14b7563f84e5f9ff71d578ca",
+            "page_number": 3
+        },
+        "text": "Laptop seems boot, but there\u2019s nothing on the screen Laptop monitor not working"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bc2eed6adbd7c4da00f1e372fbbfd4c1",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        474.5,
+                        494.7
+                    ],
+                    [
+                        474.5,
+                        524.2
+                    ],
+                    [
+                        1346.8,
+                        524.2
+                    ],
+                    [
+                        1346.8,
+                        494.7
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4d91767d14b7563f84e5f9ff71d578ca",
+            "page_number": 3
+        },
+        "text": "Laptop definitely boots and the external monitor shows the start screen."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9855f1fcf32b67455946f27518001f6a",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        591.5
+                    ],
+                    [
+                        175.7,
+                        661.0
+                    ],
+                    [
+                        1484.0,
+                        661.0
+                    ],
+                    [
+                        1484.0,
+                        591.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4d91767d14b7563f84e5f9ff71d578ca",
+            "page_number": 3,
+            "detection_class_prob": 0.72137
+        },
+        "text": "After performing a series of tests in the \u201creal world\u201d, that is, by testing our explanations, we discover the following things we didn\u2019t know before performing any tests:"
+    },
+    {
+        "type": "Image",
+        "element_id": "722679933baa9824c626edcf6d14e17a",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        436.2,
+                        682.2
+                    ],
+                    [
+                        436.2,
+                        1081.6
+                    ],
+                    [
+                        1222.2,
+                        1081.6
+                    ],
+                    [
+                        1222.2,
+                        682.2
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 3,
+            "detection_class_prob": 0.56144
+        },
+        "text": "   We had a dead battery.      The graphics card and motherboard are working fine.      The laptop\u2019s monitor doesn\u2019t work.      A bad connection?      Screen broken?      We have a faulty HDMI cable.     "
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "868f127e7f492729fa518aab999c2cd4",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        160.3,
+                        1146.8
+                    ],
+                    [
+                        160.3,
+                        1379.4
+                    ],
+                    [
+                        1492.9,
+                        1379.4
+                    ],
+                    [
+                        1492.9,
+                        1146.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 3,
+            "detection_class_prob": 0.94493
+        },
+        "text": "1.2.2 Troubleshooting and the Scientific Method Troubleshooting is an example of the scientific method. It is in a sense a trivial example of it \u2013 the scientific method is a lot more powerful than that. The scientific method can be used to probe and discover brand new things about nature. This, of course, relies on our explanations and then testing those explanations. If our explanation ends up not being falsified, then we have support for our explanation and the more we test our explanation the more confidence we have that our explanation is, in fact, true."
+    },
+    {
+        "type": "Image",
+        "element_id": "4a74874a8fbaf8df5be70193255e24af",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1399.7
+                    ],
+                    [
+                        175.7,
+                        1896.2
+                    ],
+                    [
+                        883.3,
+                        1896.2
+                    ],
+                    [
+                        883.3,
+                        1399.7
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 3
+        },
+        "text": "pata Make an observation Incorporate new observations, if any. consistent Explanation with Supported explanation?"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c7bd10572c1b2e399bda74e4b1acbe16",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        902.4,
+                        1400.6
+                    ],
+                    [
+                        902.4,
+                        1705.6
+                    ],
+                    [
+                        1486.4,
+                        1705.6
+                    ],
+                    [
+                        1486.4,
+                        1400.6
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 3,
+            "detection_class_prob": 0.95023
+        },
+        "text": "This is how things are discovered using the scientific method, and this is the way we have discovered many things about the world today. All the content in science textbooks have been subjected to this procedure. This example illustrates how science is self-correcting, where our steps taken above can be summarized in the following flow chart."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "05c4445a2573d7ab53aced7f7b7e785c",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        904.9,
+                        1735.7
+                    ],
+                    [
+                        904.9,
+                        1881.2
+                    ],
+                    [
+                        1484.0,
+                        1881.2
+                    ],
+                    [
+                        1484.0,
+                        1735.7
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 3,
+            "detection_class_prob": 0.79763
+        },
+        "text": "We also note that every time we loop through this chart, regardless of whether the test is consistent with the explanation or not, we gain new information about the world around us."
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "4e07408562bedb8b60ce05c1decfe3ad",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        793.3,
+                        2132.5
+                    ],
+                    [
+                        793.3,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2132.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 3
+        },
+        "text": "3"
+    },
+    {
+        "type": "Footer",
+        "element_id": "e825fc8e0c60d2272f37e6152fc8f293",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        798.1,
+                        2135.6
+                    ],
+                    [
+                        798.1,
+                        2160.3
+                    ],
+                    [
+                        826.0,
+                        2160.3
+                    ],
+                    [
+                        826.0,
+                        2135.6
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 3,
+            "detection_class_prob": 0.09942
+        },
+        "text": "3"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c0e6aef5c6eb6bc078b84bc783cb7db4",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        193.6,
+                        158.1
+                    ],
+                    [
+                        193.6,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 4,
+            "detection_class_prob": 0.40736
+        },
+        "text": "Lecture 1"
+    },
+    {
+        "type": "Title",
+        "element_id": "4ae499468538681369c8ab93842d1ad3",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        729.9,
+                        158.1
+                    ],
+                    [
+                        729.9,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 4,
+            "detection_class_prob": 0.07892
+        },
+        "text": "HSI1000"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "14a24fd3f695826fd537b50d57e10b1c",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        304.8
+                    ],
+                    [
+                        175.7,
+                        622.2
+                    ],
+                    [
+                        1484.3,
+                        622.2
+                    ],
+                    [
+                        1484.3,
+                        304.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4ae499468538681369c8ab93842d1ad3",
+            "page_number": 4,
+            "detection_class_prob": 0.9527
+        },
+        "text": "1.3 Teabag Experiment In the previous video, we saw that troubleshooting a laptop was an example of the scientific method. In fact, troubleshooting anything in general represents an application of the scientific method. You observe that there is clearly something wrong. You come up with possible explanations as to what might be the cause of the problem. Finally, you go through the process of checking if the thing you thought might be wrong is indeed the cause of the problem. If it isn\u2019t then you try something else, i.e., you toss aside your previous explanation of what the problem was and make a new explanation for the cause. You continue doing this until you can at least narrow down what\u2019s the cause of the problem."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "56f48640cd2f2dcbd369d4cc93a782df",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        653.0
+                    ],
+                    [
+                        175.7,
+                        798.5
+                    ],
+                    [
+                        1484.3,
+                        798.5
+                    ],
+                    [
+                        1484.3,
+                        653.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4ae499468538681369c8ab93842d1ad3",
+            "page_number": 4,
+            "detection_class_prob": 0.829
+        },
+        "text": "Observe, explain, and test the explanation \u2013 the scientific method in a nutshell. The point is by running through this process you will discover things you didn\u2019t know before. Now I\u2019ll illustrate this again, but in the household environment. This time we\u2019ll use the scientific method to discover something new about nature, or at least something that might be new to you."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c4325c16fea3b44a46756732204afd14",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        474.5,
+                        870.3
+                    ],
+                    [
+                        474.5,
+                        935.7
+                    ],
+                    [
+                        1469.1,
+                        935.7
+                    ],
+                    [
+                        1469.1,
+                        870.3
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4ae499468538681369c8ab93842d1ad3",
+            "page_number": 4,
+            "detection_class_prob": 0.58776
+        },
+        "text": "(1) Tea bag bloats and floats on top of the water when boiling water is poured directly on top of it."
+    },
+    {
+        "type": "Title",
+        "element_id": "f87558869bcf88160fa9759243c01390",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        191.1,
+                        942.1
+                    ],
+                    [
+                        191.1,
+                        971.6
+                    ],
+                    [
+                        359.5,
+                        971.6
+                    ],
+                    [
+                        359.5,
+                        942.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 4
+        },
+        "text": "Observations"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e6dec2b0ce850b7d7cc34dac9ed90175",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        474.5,
+                        978.0
+                    ],
+                    [
+                        474.5,
+                        1043.4
+                    ],
+                    [
+                        1469.1,
+                        1043.4
+                    ],
+                    [
+                        1469.1,
+                        978.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "f87558869bcf88160fa9759243c01390",
+            "page_number": 4,
+            "detection_class_prob": 0.53472
+        },
+        "text": "(2) Tea bag doesn\u2019t bloat and sinks in the water when boiling water is poured on the side and not directly onto it."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a8d048c9630cfb48af26fa8285f1e0ca",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        474.5,
+                        1090.8
+                    ],
+                    [
+                        474.5,
+                        1192.1
+                    ],
+                    [
+                        1469.6,
+                        1192.1
+                    ],
+                    [
+                        1469.6,
+                        1090.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "f87558869bcf88160fa9759243c01390",
+            "page_number": 4,
+            "detection_class_prob": 0.61754
+        },
+        "text": "Water poured on top of the tea bag fills the pores of the teabag itself, trapping any gas inside before it can escape. The hot water heats the trapped air, causing it to expand. The trapped air prevents the tea bag from being dunked."
+    },
+    {
+        "type": "Title",
+        "element_id": "16ee4625bce919a2ec1a3ac9e3168a9e",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        191.1,
+                        1338.9
+                    ],
+                    [
+                        191.1,
+                        1368.4
+                    ],
+                    [
+                        342.3,
+                        1368.4
+                    ],
+                    [
+                        342.3,
+                        1338.9
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 4
+        },
+        "text": "Explanation"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d93ea152bf4a64e4354003bc6eb3eb15",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        726.9,
+                        1563.2
+                    ],
+                    [
+                        726.9,
+                        1616.4
+                    ],
+                    [
+                        1220.9,
+                        1616.4
+                    ],
+                    [
+                        1220.9,
+                        1563.2
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "16ee4625bce919a2ec1a3ac9e3168a9e",
+            "page_number": 4
+        },
+        "text": "Pores of the tea bag can get sealed up with water and prevent air from escaping."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "32b338288210f77154225f0e9d88bfa8",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        191.0,
+                        1673.0
+                    ],
+                    [
+                        191.0,
+                        1698.0
+                    ],
+                    [
+                        440.0,
+                        1698.0
+                    ],
+                    [
+                        440.0,
+                        1673.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "16ee4625bce919a2ec1a3ac9e3168a9e",
+            "page_number": 4
+        },
+        "text": "Test the explanation"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8a40daefea366b467e9ec3ac0e68fe1b",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        474.5,
+                        1654.3
+                    ],
+                    [
+                        474.5,
+                        1719.7
+                    ],
+                    [
+                        1469.2,
+                        1719.7
+                    ],
+                    [
+                        1469.2,
+                        1654.3
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "16ee4625bce919a2ec1a3ac9e3168a9e",
+            "page_number": 4
+        },
+        "text": "Quickly seal the tea bag in cold water, trapping the air, then pour boiling water near to but not directly onto it."
+    },
+    {
+        "type": "Title",
+        "element_id": "4d91767d14b7563f84e5f9ff71d578ca",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        191.1,
+                        1785.7
+                    ],
+                    [
+                        191.1,
+                        1815.2
+                    ],
+                    [
+                        359.3,
+                        1815.2
+                    ],
+                    [
+                        359.3,
+                        1785.7
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 4
+        },
+        "text": "Result of test"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e7416c2582351b7515c45368eea19491",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        226.4,
+                        1785.6
+                    ],
+                    [
+                        226.4,
+                        1815.2
+                    ],
+                    [
+                        1375.1,
+                        1815.2
+                    ],
+                    [
+                        1375.1,
+                        1785.6
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4d91767d14b7563f84e5f9ff71d578ca",
+            "page_number": 4,
+            "detection_class_prob": 0.23284
+        },
+        "text": "Tea bag bloats and floats on top of the water supporting the explanation."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bc55b39f5f3be25afcd167707eee5c73",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        164.5,
+                        1911.1
+                    ],
+                    [
+                        164.5,
+                        2096.4
+                    ],
+                    [
+                        1484.0,
+                        2096.4
+                    ],
+                    [
+                        1484.0,
+                        1911.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4d91767d14b7563f84e5f9ff71d578ca",
+            "page_number": 4,
+            "detection_class_prob": 0.94041
+        },
+        "text": "The test supports our explanation, rather than confirm it. If we really wanted to check whether this explanation is correct, we would need to do a lot more tests. Compared to troubleshooting the laptop in the previous section, the results of the test with the tea bag are a lot more tentative since we generally know more about the way a laptop works and our tests are more directly indicative of the explanation being correct (or not) than the tea bag. We don\u2019t know that much about what\u2019s going on exactly. We have this speculative"
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "4b227777d4dd1fc61c6f884f48641d02",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        793.3,
+                        2132.5
+                    ],
+                    [
+                        793.3,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2132.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4d91767d14b7563f84e5f9ff71d578ca",
+            "page_number": 4
+        },
+        "text": "4"
+    },
+    {
+        "type": "Footer",
+        "element_id": "4b227777d4dd1fc61c6f884f48641d02",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        783.1,
+                        2134.5
+                    ],
+                    [
+                        783.1,
+                        2158.3
+                    ],
+                    [
+                        805.7,
+                        2158.3
+                    ],
+                    [
+                        805.7,
+                        2134.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 4,
+            "detection_class_prob": 0.34566
+        },
+        "text": "4"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c0e6aef5c6eb6bc078b84bc783cb7db4",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        193.2,
+                        158.1
+                    ],
+                    [
+                        193.2,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 5,
+            "detection_class_prob": 0.49019
+        },
+        "text": "Lecture 1"
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "bcf49d98a8e7d59cf9307a11a4d6cd2d",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        733.2,
+                        158.1
+                    ],
+                    [
+                        733.2,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 5
+        },
+        "text": "HSI1000"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "18678ccbbb65bba57ff798cac371cdf9",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        244.0
+                    ],
+                    [
+                        175.7,
+                        351.1
+                    ],
+                    [
+                        1484.6,
+                        351.1
+                    ],
+                    [
+                        1484.6,
+                        244.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 5,
+            "detection_class_prob": 0.81864
+        },
+        "text": "explanation that water is somehow filling up pores, sealing that tea bag, and our test is supportive of this explanation. But ideally, we would find out a lot more about this phenomenon before we can say for sure that this explanation is correct."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "206cefb92f43b2e738f46a481e73cda5",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        381.2
+                    ],
+                    [
+                        175.7,
+                        449.8
+                    ],
+                    [
+                        1484.0,
+                        449.8
+                    ],
+                    [
+                        1484.0,
+                        381.2
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 5,
+            "detection_class_prob": 0.82823
+        },
+        "text": "There are lots of additional interesting questions we can now ask about this phenomenon of liquid water stretching across tiny gaps in the teabag and effectively sealing the air inside:"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "30d4aefdca1fee8a9c1dddc4c7e0f09e",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        223.8,
+                        480.8
+                    ],
+                    [
+                        223.8,
+                        752.4
+                    ],
+                    [
+                        1484.0,
+                        752.4
+                    ],
+                    [
+                        1484.0,
+                        480.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 5
+        },
+        "text": "If there really is water sealing the pores, then can we see it? \u2022 How thick is the film of water sealing the pores of the teabag? \u2022 How long does this film last? \u2022 How strongly does the water seal in the air? i.e., what level of air pressure is needed to break the seal? \u2022 How big do the pores need to be so that the water can\u2019t seal air inside them? \u2022 Does adding other substances to the water change this behavior? \u2022 What about other liquids? Do they behave in the same way?"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "31325c375f10b96f743a2840beb2226b",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        778.5
+                    ],
+                    [
+                        175.7,
+                        851.7
+                    ],
+                    [
+                        1484.0,
+                        851.7
+                    ],
+                    [
+                        1484.0,
+                        778.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 5,
+            "detection_class_prob": 0.8005
+        },
+        "text": "In science, answering one question often leads to more questions, and an investigation can sometimes take wild and unanticipated twists and turns that lead to new knowledge and understanding of nature."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cfbec7cb4f281d0ed7dbcb966cfdedd3",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        883.0
+                    ],
+                    [
+                        175.7,
+                        1084.4
+                    ],
+                    [
+                        1484.1,
+                        1084.4
+                    ],
+                    [
+                        1484.1,
+                        883.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 5
+        },
+        "text": "1.4 Cadaverous Poisoning You may not have realized it, but in the previous video we were just starting to scratch the surface of two entire branches of science: \u201cInterface Science\u201d and \u201cColloidal Science\u201d \u2013 extremely important areas within chemistry, food science, biology, and physics, etc. A good understanding of these areas is also of great importance to industry and for most of the products industry produces."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "67c6edb2900f91b78996486db78ee16f",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1113.4
+                    ],
+                    [
+                        175.7,
+                        1302.4
+                    ],
+                    [
+                        1484.0,
+                        1302.4
+                    ],
+                    [
+                        1484.0,
+                        1113.4
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 5
+        },
+        "text": "1.4.1 Semmelweis and Childbed Fever I have one last example of a fairly straightforward application of the scientific method, taken from our textbook and drawn from the annals of science. Our example will be from the area of medicine and we\u2019re going to wind the clock back to 1846, to a time when science had yet to discover the \u201cgerm\u201d \u2013 that is, those nasty little disease-causing organisms so small they are invisible to the naked eye."
+    },
+    {
+        "type": "Title",
+        "element_id": "eed23c98addaca040dd43efc497ca9fc",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1613.8
+                    ],
+                    [
+                        175.7,
+                        1735.9
+                    ],
+                    [
+                        370.8,
+                        1735.9
+                    ],
+                    [
+                        370.8,
+                        1613.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 5
+        },
+        "text": "Figure 1 Semmelweis from Wikimedia: Jen\u0151 Doby, Public domain, via Wikimedia Commons"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "dfac178c5ad7e19526cec5d3e3667141",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        382.8,
+                        1333.1
+                    ],
+                    [
+                        382.8,
+                        1520.3
+                    ],
+                    [
+                        1490.7,
+                        1520.3
+                    ],
+                    [
+                        1490.7,
+                        1333.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "eed23c98addaca040dd43efc497ca9fc",
+            "page_number": 5,
+            "detection_class_prob": 0.93623
+        },
+        "text": "Dr. Ignaz Semmelweis (Figure 1) was hired on a three-year contract into the Vienna General Hospital's maternity clinic from 1846 \u2013 1849. At the time \u201cchildbed fever\u201d, aka puerperal fever, was running rampant in hospitals all over Europe and the US. This disease affected mothers after they gave birth or had a miscarriage. Without going into details, it was a particularly nasty disease with a number of easily recognizable signs and symptoms."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "06c7d5b33b7a386056445bbae76eed6d",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        388.1,
+                        1542.4
+                    ],
+                    [
+                        388.1,
+                        1771.3
+                    ],
+                    [
+                        1484.2,
+                        1771.3
+                    ],
+                    [
+                        1484.2,
+                        1542.4
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "eed23c98addaca040dd43efc497ca9fc",
+            "page_number": 5,
+            "detection_class_prob": 0.9346
+        },
+        "text": "It usually occurred after the first 24 hours and within the first ten days following delivery. The fever was deadly, killing up to 80% of those diagnosed and sometimes reached as high as 40% of all mothers admitted to the hospital. As with all physicians, Dr. Semmelweis was particularly concerned, so he studied the data on mortality rates within his hospital dating from 1841 \u2013 1846 looking for something, anything, that might give a clue on how to stop the fever."
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "ef2d127de37b942baad06145e54b0c61",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        793.3,
+                        2132.5
+                    ],
+                    [
+                        793.3,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2132.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "eed23c98addaca040dd43efc497ca9fc",
+            "page_number": 5
+        },
+        "text": "5"
+    },
+    {
+        "type": "Header",
+        "element_id": "c0e6aef5c6eb6bc078b84bc783cb7db4",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        192.8,
+                        158.1
+                    ],
+                    [
+                        192.8,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 6,
+            "detection_class_prob": 0.38433
+        },
+        "text": "Lecture 1"
+    },
+    {
+        "type": "Header",
+        "element_id": "4ae499468538681369c8ab93842d1ad3",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        729.0,
+                        158.1
+                    ],
+                    [
+                        729.0,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 6,
+            "detection_class_prob": 0.18256
+        },
+        "text": "HSI1000"
+    },
+    {
+        "type": "FigureCaption",
+        "element_id": "edbc8b6d50db6d9525ae2f0f07b1163f",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        757.5
+                    ],
+                    [
+                        175.7,
+                        815.1
+                    ],
+                    [
+                        947.9,
+                        815.1
+                    ],
+                    [
+                        947.9,
+                        757.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4ae499468538681369c8ab93842d1ad3",
+            "page_number": 6,
+            "detection_class_prob": 0.74321
+        },
+        "text": "Figure 2 Mortality rates in two clinics in the Vienna General Hospital from 1841 - 1846."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2be0a852432d691b78753e16aa5eb89c",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        957.0,
+                        243.7
+                    ],
+                    [
+                        957.0,
+                        544.7
+                    ],
+                    [
+                        1486.9,
+                        544.7
+                    ],
+                    [
+                        1486.9,
+                        243.7
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4ae499468538681369c8ab93842d1ad3",
+            "page_number": 6,
+            "detection_class_prob": 0.94024
+        },
+        "text": "He noticed something when comparing the mortality rates between two different clinics in his hospital (Figure 2). Now there was no obvious difference between the two sets of mothers in each clinic, so why were a lot more women dying in his clinic where doctors attended to mothers (orange curve in Figure 2)?"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c25c94c3bcbb4a3b90b37fa60a8eefc1",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        955.9,
+                        571.3
+                    ],
+                    [
+                        955.9,
+                        842.1
+                    ],
+                    [
+                        1492.3,
+                        842.1
+                    ],
+                    [
+                        1492.3,
+                        571.3
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4ae499468538681369c8ab93842d1ad3",
+            "page_number": 6,
+            "detection_class_prob": 0.94124
+        },
+        "text": "He showed the findings to his colleagues, but everyone was at a loss as to why this should be so. Was it something the doctors were doing wrong? or perhaps something the midwives were doing right? Maybe it was due to a difference in the clinical environments? Perhaps the patients in his"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8c8e8c7204a4654269b8a1fdec7a65d5",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        174.2,
+                        844.1
+                    ],
+                    [
+                        174.2,
+                        875.4
+                    ],
+                    [
+                        714.2,
+                        875.4
+                    ],
+                    [
+                        714.2,
+                        844.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4ae499468538681369c8ab93842d1ad3",
+            "page_number": 6,
+            "detection_class_prob": 0.52358
+        },
+        "text": "clinic were somehow more prone to illness?"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bcb9a92ce1bef04eec224765bf13c25e",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        902.0
+                    ],
+                    [
+                        175.7,
+                        1015.9
+                    ],
+                    [
+                        1490.6,
+                        1015.9
+                    ],
+                    [
+                        1490.6,
+                        902.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4ae499468538681369c8ab93842d1ad3",
+            "page_number": 6,
+            "detection_class_prob": 0.78896
+        },
+        "text": "At this time, in the middle of the 19th century, the \u201cgerm\u201d or pathogen, was not known to be the cause of disease. Germs had not been observed, and any speculation of their possible existence was not taken seriously. The reining theories for how disease was spread, caused, and treated at the time were quite wrong."
+    },
+    {
+        "type": "Title",
+        "element_id": "84c7f0522251f9d70854bd0fb34f97a3",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        163.6,
+                        1039.5
+                    ],
+                    [
+                        163.6,
+                        1076.1
+                    ],
+                    [
+                        516.2,
+                        1076.1
+                    ],
+                    [
+                        516.2,
+                        1039.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4ae499468538681369c8ab93842d1ad3",
+            "page_number": 6,
+            "detection_class_prob": 0.24994
+        },
+        "text": "1.4.2 A Key Observation"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3f979ce4c395e0ab74c026881ec33881",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        420.1,
+                        1080.0
+                    ],
+                    [
+                        420.1,
+                        1272.9
+                    ],
+                    [
+                        1484.1,
+                        1272.9
+                    ],
+                    [
+                        1484.1,
+                        1080.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "84c7f0522251f9d70854bd0fb34f97a3",
+            "page_number": 6,
+            "detection_class_prob": 0.91847
+        },
+        "text": "Then a rather unfortunate incident occurred in 1847 in an anatomical pathology lab. Dr Semmelweis\u2019 friend, who he greatly admired, died after being accidentally pricked by a scalpel being used by a student doctor while he was assisting in performing an autopsy. Professor Kolletschka (Figure 3) suffered identical signs and symptoms as the mothers who died of childbed fever. Dr Semmelweis wrote about the incident:"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "93be3808f82279d91fa683f313280bf6",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        420.1,
+                        1300.4
+                    ],
+                    [
+                        420.1,
+                        1411.0
+                    ],
+                    [
+                        1484.2,
+                        1411.0
+                    ],
+                    [
+                        1484.2,
+                        1300.4
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "84c7f0522251f9d70854bd0fb34f97a3",
+            "page_number": 6,
+            "detection_class_prob": 0.56341
+        },
+        "text": "\u201cDay and night I was haunted by the image of Kolletschka's disease and was forced to recognize, ever more decisively, that the disease from which Kolletschka died was identical to that from which so many maternity patients died.\u201d"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7953b15cefd5d156598d27b3deaac2d9",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1330.5
+                    ],
+                    [
+                        175.7,
+                        1544.7
+                    ],
+                    [
+                        1484.0,
+                        1544.7
+                    ],
+                    [
+                        1484.0,
+                        1330.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "84c7f0522251f9d70854bd0fb34f97a3",
+            "page_number": 6
+        },
+        "text": "Figure 3 Kolletschka from Wikimedia: Unknown author, Public domain, via Wikimedia Commons There is another very pertinent fact, or observation, in this case. Right after the student doctors attended the anatomical pathology lab, where they dissected badly infected corpses, they would go to Dr Semmelweis\u2019 maternity clinic to assist in the births of expectant mothers."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6355979195f588701a8457fcc249d3bc",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1575.5
+                    ],
+                    [
+                        175.7,
+                        1724.7
+                    ],
+                    [
+                        1491.3,
+                        1724.7
+                    ],
+                    [
+                        1491.3,
+                        1575.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "84c7f0522251f9d70854bd0fb34f97a3",
+            "page_number": 6,
+            "detection_class_prob": 0.81663
+        },
+        "text": "Do remember that the way disease was spread, caused, and treated in those days was completely misunderstood. No one knew about germs, so there certainly were no antibiotics and there was no disinfecting of anything \u2013 no hand washing of one\u2019s hands especially when, by just looking at them, they were quite obviously clean."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "add474a33fb16ea33ea91076a2224f92",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1748.9
+                    ],
+                    [
+                        175.7,
+                        1781.2
+                    ],
+                    [
+                        784.0,
+                        1781.2
+                    ],
+                    [
+                        784.0,
+                        1748.9
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "84c7f0522251f9d70854bd0fb34f97a3",
+            "page_number": 6,
+            "detection_class_prob": 0.86945
+        },
+        "text": "So now we have our careful observations, or facts,"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "ef14da5432f7ecae0e2db0a3d9effa35",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        199.3,
+                        1810.3
+                    ],
+                    [
+                        199.3,
+                        1919.1
+                    ],
+                    [
+                        1490.9,
+                        1919.1
+                    ],
+                    [
+                        1490.9,
+                        1810.3
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "84c7f0522251f9d70854bd0fb34f97a3",
+            "page_number": 6,
+            "detection_class_prob": 0.77158
+        },
+        "text": "(1) The mortality rate of mothers due to childbed fever in a clinic attended by doctors was, on average, five times higher than what appears to be a similar clinic with similar mothers but attended by midwives instead of doctors."
+    },
+    {
+        "type": "ListItem",
+        "element_id": "399994864a613ff86cef48e879026a58",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        207.8,
+                        1926.4
+                    ],
+                    [
+                        207.8,
+                        1996.0
+                    ],
+                    [
+                        1484.5,
+                        1996.0
+                    ],
+                    [
+                        1484.5,
+                        1926.4
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "84c7f0522251f9d70854bd0fb34f97a3",
+            "page_number": 6,
+            "detection_class_prob": 0.77492
+        },
+        "text": "(2) Doctors attend to mothers in the clinic directly after having been engaged in autopsies of infected corpses in the anatomical pathology lab."
+    },
+    {
+        "type": "ListItem",
+        "element_id": "ce3293d0cec8c9ba5a4489850400ddc4",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        223.8,
+                        2003.9
+                    ],
+                    [
+                        223.8,
+                        2073.6
+                    ],
+                    [
+                        1483.9,
+                        2073.6
+                    ],
+                    [
+                        1483.9,
+                        2003.9
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "84c7f0522251f9d70854bd0fb34f97a3",
+            "page_number": 6,
+            "detection_class_prob": 0.79504
+        },
+        "text": "(3) A doctor dies from identical signs and symptoms to childbed fever after having been stuck with a scalpel used to dissect infected corpses in the anatomical pathology lab."
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "e7f6c011776e8db7cd330b54174fd76f",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        793.3,
+                        2132.5
+                    ],
+                    [
+                        793.3,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2132.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "84c7f0522251f9d70854bd0fb34f97a3",
+            "page_number": 6
+        },
+        "text": "6"
+    },
+    {
+        "type": "Title",
+        "element_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        195.6,
+                        158.1
+                    ],
+                    [
+                        195.6,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "4ae499468538681369c8ab93842d1ad3",
+            "page_number": 7
+        },
+        "text": "Lecture 1"
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "bcf49d98a8e7d59cf9307a11a4d6cd2d",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        733.2,
+                        158.1
+                    ],
+                    [
+                        733.2,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 7
+        },
+        "text": "HSI1000"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0bcd7869721f50a790dc1f79897b26f8",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        166.2,
+                        242.9
+                    ],
+                    [
+                        166.2,
+                        548.9
+                    ],
+                    [
+                        1494.3,
+                        548.9
+                    ],
+                    [
+                        1494.3,
+                        242.9
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 7,
+            "detection_class_prob": 0.95513
+        },
+        "text": "1.4.3 A Possible Explanation Following the scientific method: observation, explanation, testing, what could be a possible explanation for these observations? Semmelweis felt that the only sensible explanation must have something to do with the corpses. Something unseen. He called this something \u201ccadaver matter\u201d, so he speculated that invisible cadaver matter was picked up by the student doctors touching corpses while working in the anatomical pathology lab. This matter wasn\u2019t visible to the naked eye, but it was deadly if it entered the body via a wound. When these same doctors assisted mothers while giving birth, they transferred it to them through the usual wounds suffered during such a process."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "125b6f1c064dd35cbd45d6f3058f7338",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        577.5
+                    ],
+                    [
+                        175.7,
+                        808.6
+                    ],
+                    [
+                        1485.0,
+                        808.6
+                    ],
+                    [
+                        1485.0,
+                        577.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 7,
+            "detection_class_prob": 0.94726
+        },
+        "text": "1.4.4 Testing the Explanation At the moment, this explanation is pure speculation. It could certainly be wrong, with some other unknown explanation being the right one. Following the scientific method, he needed a means of testing this proposal to see if he was indeed wrong. If his explanation was right, and cadaver matter existed, he decided that, quite obviously, it needed to be removed from the student\u2019s hands before attending to the mothers in his maternity clinic."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a96cdee6fa53c86793b62c2846f30202",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        835.7
+                    ],
+                    [
+                        175.7,
+                        981.2
+                    ],
+                    [
+                        1484.0,
+                        981.2
+                    ],
+                    [
+                        1484.0,
+                        835.7
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 7,
+            "detection_class_prob": 0.85108
+        },
+        "text": "Therefore, he instituted a policy of using a solution of chlorinated lime (calcium hypochlorite, or swimming pool chemical in water) for washing hands between autopsy work and the examination of patients. He chose this chemical because he found that the same solution worked best to remove the putrid smell of infected autopsy tissue."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "474dae436c139e8be24300fb8843aa40",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        161.3,
+                        1007.8
+                    ],
+                    [
+                        161.3,
+                        1197.3
+                    ],
+                    [
+                        1498.2,
+                        1197.3
+                    ],
+                    [
+                        1498.2,
+                        1007.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 7,
+            "detection_class_prob": 0.95008
+        },
+        "text": "Now if his explanation was correct and the chlorinated lime solution was effective, then the mortality rates of childbed fever should drop to the same levels as the midwife\u2019s clinic or lower. Despite some resistance to the hand washing, and whispers that he had instituted a waste-of-time hand washing for crazy reasons (like a theory that corpse particles could turn the living into a corpse!), the mortality rates in his clinic dropped remarkably, as shown in the following graph."
+    },
+    {
+        "type": "Footer",
+        "element_id": "09efaf67f7a10c9dfdc9b0f0994c7855",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        793.0,
+                        2129.9
+                    ],
+                    [
+                        793.0,
+                        2162.0
+                    ],
+                    [
+                        818.3,
+                        2162.0
+                    ],
+                    [
+                        818.3,
+                        2129.9
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 7,
+            "detection_class_prob": 0.15346
+        },
+        "text": "7"
+    },
+    {
+        "type": "Title",
+        "element_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        195.6,
+                        158.1
+                    ],
+                    [
+                        195.6,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "page_number": 8
+        },
+        "text": "Lecture 1"
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "bcf49d98a8e7d59cf9307a11a4d6cd2d",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        733.2,
+                        158.1
+                    ],
+                    [
+                        733.2,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 8
+        },
+        "text": "HSI1000"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3d2f45327386751481ec30b3df7bc8f1",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        244.0
+                    ],
+                    [
+                        175.7,
+                        273.5
+                    ],
+                    [
+                        1484.0,
+                        273.5
+                    ],
+                    [
+                        1484.0,
+                        244.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 8,
+            "detection_class_prob": 0.75188
+        },
+        "text": "If you\u2019d like to read more about Dr. Semmelweis and this interesting case, just follow the link in the box below."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9c67a31c48e1cd18b4fa7ce447fd5140",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        162.2,
+                        303.1
+                    ],
+                    [
+                        162.2,
+                        608.3
+                    ],
+                    [
+                        1493.7,
+                        608.3
+                    ],
+                    [
+                        1493.7,
+                        303.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 8,
+            "detection_class_prob": 0.93397
+        },
+        "text": "1.4.5 To summarize, Dr. Semmelweis made observations and provided an explanation for those observations. Based on that explanation, he performed a test of it with the results supporting his explanation. Of course, there was no explanation of what was \u201ccadaver matter\u201d. Furthermore, since his explanation ran against the generally accepted scientific theories of the time and it wasn\u2019t completely accepted until 30 years later when the cadaver matter was actually discovered by Louis Pasteur in 1879. A revolutionary new theory of disease was then established which remains as the prevailing explanation for diseases to date \u2013 germ theory."
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "2c624232cdd221771294dfbb310aca00",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        793.3,
+                        2132.5
+                    ],
+                    [
+                        793.3,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2132.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 8
+        },
+        "text": "8"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c0e6aef5c6eb6bc078b84bc783cb7db4",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        194.6,
+                        158.1
+                    ],
+                    [
+                        194.6,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        187.6
+                    ],
+                    [
+                        313.3,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9,
+            "detection_class_prob": 0.45359
+        },
+        "text": "Lecture 1"
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "bcf49d98a8e7d59cf9307a11a4d6cd2d",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        733.2,
+                        158.1
+                    ],
+                    [
+                        733.2,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        187.6
+                    ],
+                    [
+                        838.6,
+                        158.1
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9
+        },
+        "text": "HSI1000"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8386a156e0eaf05a656755d98f3860dd",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        244.6
+                    ],
+                    [
+                        175.7,
+                        486.0
+                    ],
+                    [
+                        1484.0,
+                        486.0
+                    ],
+                    [
+                        1484.0,
+                        244.6
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9,
+            "detection_class_prob": 0.9484
+        },
+        "text": "1.5 Observation Now that we have a handle on what science is and an overview of the scientific method, let\u2019s address our second intended learning outcome for this lecture, which focuses on the first step of the scientific method \u2013 \u201cscientific observation\u201d. Observation is absolutely critical to conducting any kind of scientific inquiry. In fact, without any observations, or experiments \u2013 which are just observations themselves \u2013 the inquiry isn\u2019t even considered scientific!"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "17bb44b595696d2f03bdeb71a9a48686",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        513.6
+                    ],
+                    [
+                        175.7,
+                        544.7
+                    ],
+                    [
+                        1008.8,
+                        544.7
+                    ],
+                    [
+                        1008.8,
+                        513.6
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9,
+            "detection_class_prob": 0.88082
+        },
+        "text": "Observation fulfills the following crucial roles in any scientific inquiry:"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "f6945f1b627949ac1663a95aaabcab16",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        223.8,
+                        573.8
+                    ],
+                    [
+                        223.8,
+                        643.4
+                    ],
+                    [
+                        1484.1,
+                        643.4
+                    ],
+                    [
+                        1484.1,
+                        573.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9
+        },
+        "text": "1. To identify and focus on the relevant facts about the phenomena under investigation. 2. Provide clues as to what might explain the phenomena \u2013 this one\u2019s really important if the"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "5eb61fb80650cafd72470aa91bd107b9",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        240.5,
+                        613.3
+                    ],
+                    [
+                        240.5,
+                        682.5
+                    ],
+                    [
+                        1453.9,
+                        682.5
+                    ],
+                    [
+                        1453.9,
+                        613.3
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9,
+            "detection_class_prob": 0.68101
+        },
+        "text": "phenomenon you\u2019re investigating is really mysterious."
+    },
+    {
+        "type": "ListItem",
+        "element_id": "d4dc1daaf9b711e23b411af349a3c7bd",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        209.7,
+                        689.8
+                    ],
+                    [
+                        209.7,
+                        721.0
+                    ],
+                    [
+                        1413.8,
+                        721.0
+                    ],
+                    [
+                        1413.8,
+                        689.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9,
+            "detection_class_prob": 0.83779
+        },
+        "text": "3. Provide the evidence by which we can determine whether various explanations succeed or fail."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "71c0ad4b5c51b93fa3000cc56dbc05ef",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        751.7
+                    ],
+                    [
+                        175.7,
+                        858.1
+                    ],
+                    [
+                        1484.0,
+                        858.1
+                    ],
+                    [
+                        1484.0,
+                        751.7
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9,
+            "detection_class_prob": 0.77155
+        },
+        "text": "However, making useful observations can sometimes be tricky. For example, we might not know which data will be relevant to the solution to the problem at hand. Even if this is known, we can run into trouble just gathering the necessary data in the first place!"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3551fd8a71027505266f1648f93418e4",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        881.9
+                    ],
+                    [
+                        175.7,
+                        1075.2
+                    ],
+                    [
+                        1484.0,
+                        1075.2
+                    ],
+                    [
+                        1484.0,
+                        881.9
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9,
+            "detection_class_prob": 0.94891
+        },
+        "text": "The second chapter of our textbook discusses everything we need to know about making useful observations. I suggest you read it in combination with this lecture. The chapter has several accessible real-life examples illustrating five main concerns that need to be addressed when making useful scientific observations. Pay close attention to the \u201cConcept Quiz\u201d on page 25 and try and answer the 9 questions asked there. In fact, I\u2019ve given you a head start by answering the first question for you here."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6f49c93c5238257ea844d9359e3832a2",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1099.6
+                    ],
+                    [
+                        175.7,
+                        1290.7
+                    ],
+                    [
+                        1488.7,
+                        1290.7
+                    ],
+                    [
+                        1488.7,
+                        1099.6
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9,
+            "detection_class_prob": 0.94649
+        },
+        "text": "To illustrate most of these five concerns, we\u2019ll use an important example from one of the greatest scientific minds that ever lived. This scientist was a pioneer of the scientific method and instrumental in ushering in a permanent change in the way in which knowledge and understanding of nature were acquired. The next video will show how the one and only Galileo Galilei figured out the law of inertia, which Newton later incorporated into his first law of motion."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "052f4912bf4e6a5209bcf322150d240e",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1317.8
+                    ],
+                    [
+                        175.7,
+                        1425.5
+                    ],
+                    [
+                        1489.6,
+                        1425.5
+                    ],
+                    [
+                        1489.6,
+                        1317.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9,
+            "detection_class_prob": 0.76496
+        },
+        "text": "It\u2019s important to note here that it\u2019s not the actual law of motion we are particularly concerned with \u2013 I won\u2019t be asking you to do any problems using it. What we\u2019re interested in in our next video is how Galileo worked it out from his observations of motion."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "92e6494a7fa4f9d24aea855f26f66f60",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1453.5
+                    ],
+                    [
+                        175.7,
+                        1485.7
+                    ],
+                    [
+                        1212.2,
+                        1485.7
+                    ],
+                    [
+                        1212.2,
+                        1453.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9,
+            "detection_class_prob": 0.80519
+        },
+        "text": "In particular, how he addressed the following concerns when making his observations:"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "805e3368978550dd26faf4dfef38adf5",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        223.8,
+                        1514.8
+                    ],
+                    [
+                        223.8,
+                        1584.4
+                    ],
+                    [
+                        1483.9,
+                        1584.4
+                    ],
+                    [
+                        1483.9,
+                        1514.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9
+        },
+        "text": "1. Do we have a clear sense of what the relevant phenomena are? 2. Have we found a way to ensure we have not overlooked anything in the process of making our"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "4230b2139d145b113bdb88e6cfa77981",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        233.0,
+                        1552.2
+                    ],
+                    [
+                        233.0,
+                        1622.9
+                    ],
+                    [
+                        1459.7,
+                        1622.9
+                    ],
+                    [
+                        1459.7,
+                        1552.2
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9,
+            "detection_class_prob": 0.28153
+        },
+        "text": "observations?"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "506af89070b854536d2ae11daa0eec0a",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        223.8,
+                        1630.8
+                    ],
+                    [
+                        223.8,
+                        1739.6
+                    ],
+                    [
+                        1267.1,
+                        1739.6
+                    ],
+                    [
+                        1267.1,
+                        1630.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9
+        },
+        "text": "3. Do we know for sure what is based on fact and what on conjecture or assumption? 4. Have our observations been contaminated by expectation or beliefs? 5. \u201cHave we considered any necessary comparative information?\u201d"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ac1567cded1bcdeae45d7cb496604173",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        175.7,
+                        1766.8
+                    ],
+                    [
+                        175.7,
+                        1876.8
+                    ],
+                    [
+                        1484.0,
+                        1876.8
+                    ],
+                    [
+                        1484.0,
+                        1766.8
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9,
+            "detection_class_prob": 0.72042
+        },
+        "text": "The 5th concern is \u2013 \u201cHave we considered any necessary comparative information?\u201d We have already seen a nice example of this through the observations made by Dr. Semmelweis. You should be able to recall what those comparative observations were and why they were critical to his investigation."
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "19581e27de7ced00ff1ce50b2047e7a5",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        793.3,
+                        2132.5
+                    ],
+                    [
+                        793.3,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2162.0
+                    ],
+                    [
+                        814.9,
+                        2132.5
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1653,
+                "layout_height": 2339
+            },
+            "filename": "HSI1000_1to9.pdf",
+            "file_directory": "../data",
+            "last_modified": "2024-06-12T13:15:53",
+            "filetype": "application/pdf",
+            "parent_id": "cc9971d7967ab7ce6a3ac73cc065832e",
+            "page_number": 9
+        },
+        "text": "9"
+    }
+]
