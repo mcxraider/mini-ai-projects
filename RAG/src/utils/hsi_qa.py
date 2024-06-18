@@ -411,6 +411,7 @@ def upsert_pinecone_data(pinecone_text, pinecone_tables):
     return
 
 def save_bm25_instance(model_instance, model_path):
+    os.makedirs(os.path.dirname(model_path), exist_ok=True)
     # Save bm25 model to use in future queries
     with open(model_path, 'wb') as file:
         pickle.dump(model_instance, file)
@@ -426,9 +427,9 @@ def upsert_all_pinecone_data(input_file_path):
     bm25_instance = BM25Singleton.get_instance(texts=all_texts)
     pinecone_text, pinecone_tables = get_pinecone_data(text_df, tables_df, meta_table_batch, bm25_instance)
     # Only uncomment if you want to upsert a new set of data
-    upsert_pinecone_data(pinecone_text, pinecone_tables)
+    # upsert_pinecone_data(pinecone_text, pinecone_tables)
     
-    model_path = '../components/bm25_model.pkl'
+    model_path = 'components/version1/bm25_model.pkl'
     save_bm25_instance(bm25_instance, model_path)
     return
 
