@@ -1,1 +1,0 @@
-- Aim for this project is to fully deploy this on an API using some frontend and backend framework. Maybe Streamlit or something
