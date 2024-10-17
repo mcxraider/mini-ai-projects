@@ -1,6 +1,6 @@
 .env
 .DS_Store
+venv
 
 # Data files 
-ROC\ Project/chat_data
-RAG/data/Physiology
+ROC\ Project/data
